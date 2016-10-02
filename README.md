@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter - BookList Example with Redux
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
